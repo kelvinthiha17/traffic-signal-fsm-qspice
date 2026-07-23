@@ -1,0 +1,4 @@
+*.qsch linguist-generated=true
+*.dll linguist-generated=true
+*.v linguist-detectable=true
+*.v linguist-language=Verilog
