@@ -1,6 +1,7 @@
 # Traffic Signal FSM in QSPICE
 
 A 4-state finite state machine controlling a 4-way intersection with a pedestrian walk button. Written in Verilog, simulated in QSPICE, with LED output stages.
+![Overview](Overview.png)
 
 ## Overview
 
